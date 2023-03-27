@@ -6,7 +6,7 @@ Overall, to extend BeCL to image-based DMC tasks, we refer to the PIEG algorithm
 
 We give the qualitative results of the imaged-based and state-based performance of BeCL in different downstream walker tasks in URLB:
 
-![walker_State-based_Image-based](.img/walker_State-based_Image-based-9293948.png)
+![walker_State-based_Image-based_CIC](.img/walker_State-based_Image-based_CIC.png)
 
 The result shows that the performance in image-based tasks still underperforms that in state-based tasks.
 
